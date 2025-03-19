@@ -22,7 +22,7 @@ import OpenEndedPage from './pages/OpenEndedPage';
 import PerformanceReportPage from './pages/PerformanceReportPage';
 import QuizPerformanceReport from './pages/QuizPerformanceReport';
 import ViewModules from './pages/ViewModules';
-import MCQPage from './pages/mcq_page';
+import MCQPage from './pages/Mcq_page';
 import UserProfile from './pages/UserProfile';
 
 function App() {
